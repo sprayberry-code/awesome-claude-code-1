@@ -108,6 +108,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
+|[dario](https://github.com/askalf/dario) | ![GitHub Repo stars](https://badgen.net/github/stars/askalf/dario) | One local endpoint that runs Claude Code and any Anthropic- or OpenAI-compatible tool on a Claude subscription and a ChatGPT plan, with opt-in failover between them | Subscription proxy|
 
 ## Framework Extensions
 
